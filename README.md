@@ -89,9 +89,3 @@ Join type used: Left Join (to retain all orders).
 👤 Author
 
 Swaroop-33
-
-▶️ Run all cells in sequence.
-
-👤 Author
-
-Swaroop-33
